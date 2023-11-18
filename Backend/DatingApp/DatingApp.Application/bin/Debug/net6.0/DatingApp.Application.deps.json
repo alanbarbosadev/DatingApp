@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DatingApp.Application/1.0.0": {
+        "dependencies": {
+          "DatingApp.Domain": "1.0.0",
+          "DatingApp.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "DatingApp.Application.dll": {}
+        }
+      },
+      "DatingApp.Domain/1.0.0": {
+        "dependencies": {
+          "DatingApp.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "DatingApp.Domain.dll": {}
+        }
+      },
+      "DatingApp.Domain.Core/1.0.0": {
+        "runtime": {
+          "DatingApp.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DatingApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatingApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatingApp.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

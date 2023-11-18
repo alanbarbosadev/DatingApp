@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DatingApp.Domain.Core\DatingApp.Domain.Core.csproj" />
+    <ProjectReference Include="..\DatingApp.Domain\DatingApp.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Contracts\Repositories\" />
+    <Folder Include="Features\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="MappingProfiles\" />
+  </ItemGroup>
+
+</Project>

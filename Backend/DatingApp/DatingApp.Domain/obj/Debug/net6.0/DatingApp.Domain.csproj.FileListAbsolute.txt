@@ -1,0 +1,15 @@
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\bin\Debug\net6.0\DatingApp.Domain.deps.json
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\bin\Debug\net6.0\DatingApp.Domain.dll
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\bin\Debug\net6.0\DatingApp.Domain.pdb
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\bin\Debug\net6.0\DatingApp.Domain.Core.dll
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\bin\Debug\net6.0\DatingApp.Domain.Core.pdb
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\DatingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\DatingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\DatingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\DatingApp.Domain.AssemblyInfo.cs
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\DatingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\DatingApp.Domain.csproj.CopyComplete
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\DatingApp.Domain.dll
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\refint\DatingApp.Domain.dll
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\DatingApp.Domain.pdb
+C:\Users\Alan Barbosa\Documents\DatingApp\Backend\DatingApp\DatingApp.Domain\obj\Debug\net6.0\ref\DatingApp.Domain.dll

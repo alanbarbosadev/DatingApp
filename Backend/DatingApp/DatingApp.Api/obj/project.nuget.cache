@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4exad0ucuR6QsiPHnRb/NbDNSTVYI2sj9Xr8xcxhVl5ChumpiE4CImVWluTsE3RVeBcyJaQHiOpkpFkrLYDVrw==",
+  "dgSpecHash": "aHp7GaUZV4H2gsoeIOZllrzydpSW6BwGXbv9HMuzU/oh2r0+pfJUVzY7aYcpFZZEro9RjbM4UdPV+L0YwaYETA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alan Barbosa\\Documents\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj",
+  "projectFilePath": "C:\\Users\\Alan Barbosa\\Documents\\DatingApp\\DatingApp\\Backend\\DatingApp\\DatingApp.Api\\DatingApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alan Barbosa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alan Barbosa\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",

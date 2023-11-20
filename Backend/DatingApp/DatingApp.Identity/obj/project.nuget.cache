@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mtKNVe1CJUgoN90ouXqxZBa/xGQD4eg68yVZcqk+4Z8RddnZKts+HYxkNe8fuPnyjaJHlvG6pXaXQfZIBnhF2Q==",
+  "dgSpecHash": "gERtlgTNJHA2cXRu34TQiCXuY94Xk4ABQj3DeqCOIUa9r3mW/fFPR25rQzH3AJfBPYnyrKn1hjEYi86iECBqPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alan Barbosa\\Documents\\DatingApp\\Backend\\DatingApp\\DatingApp.Identity\\DatingApp.Identity.csproj",
+  "projectFilePath": "C:\\Users\\Alan Barbosa\\Documents\\DatingApp\\DatingApp\\Backend\\DatingApp\\DatingApp.Identity\\DatingApp.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alan Barbosa\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.1\\microsoft.aspnetcore.authentication.2.1.1.nupkg.sha512",
     "C:\\Users\\Alan Barbosa\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.1\\microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",
